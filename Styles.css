@@ -1,0 +1,49 @@
+ <style>
+      body{background: grey;}
+      h1{font-size: 65px;
+      color: black;
+      }
+      .badu{
+           width: 60%;
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 2px;
+      border-color: black;
+      
+      }
+      h2 {color: black;}
+      .pota{
+        border-width: 1px;
+        border-color: black;
+      }
+      img{
+        height: 200px;
+      }
+      h4{
+        font-family: Fantasy;
+        font-size: 12px;
+      }
+      .koothi{
+        border-width: 1px;
+        border-color: black;
+      }
+      h3{
+        font-size: 10px;
+      }
+      .boy{
+        text-decoration-color: dashed;
+      }
+      #boy{
+        text-decoration: underline;
+      }
+      a{
+        text-align: right;
+        color: whitesmok;
+      }
+    img:hover{
+      background-color: black;
+    }
+      h5{
+        font-color: blue;
+      }
+    </style>
